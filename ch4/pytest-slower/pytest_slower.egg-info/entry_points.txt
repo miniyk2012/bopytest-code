@@ -1,0 +1,3 @@
+[pytest11]
+slower = pytest_slower
+

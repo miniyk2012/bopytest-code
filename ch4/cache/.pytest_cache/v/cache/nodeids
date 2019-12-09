@@ -1,0 +1,7 @@
+[
+  "test_slower.py::test_slow_stuff[0]",
+  "test_slower.py::test_slow_stuff[1]",
+  "test_slower.py::test_slow_stuff[2]",
+  "test_slower.py::test_slow_stuff[3]",
+  "test_slower.py::test_slow_stuff[4]"
+]
